@@ -1,3 +1,20 @@
 p {
     background-color: yellow;
 }
+
+.introduction{
+    border: 5px solid blue;
+    color: brown;
+}
+
+.mainPart{
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+}
+
+.ending{
+    background-color: lightgray;
+    padding-top: 50px;
+}
