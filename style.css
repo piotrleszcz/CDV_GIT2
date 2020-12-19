@@ -22,3 +22,7 @@ p {
     padding-top: 20px;
     text-align: right;
 }
+
+.changes {
+    background-color: blue;
+}
