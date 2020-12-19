@@ -3,22 +3,28 @@ p {
     margin: 0;
 }
 
+
 .introduction{
-    border: 5px solid rgb(17, 33, 184);
-    color: rgb(204, 10, 10);
+    border: 5px dashed green;
+    color: rgb(43, 16, 16);
     text-align: right;
     font-size: 32px;
 }
 
-.mainPart{
+.mainPart {
     font-size: 20px;
     font-weight: bold;
     color: rgb(236, 233, 16);
     text-align: right;
 }
 
-.ending{
-    background-color: lightsalmon;
+.ending {
+    background-color: rgb(122, 255, 166);
     padding-top: 20px;
     text-align: right;
 }
+
+.changes {
+    background-color: blue;
+}
+
