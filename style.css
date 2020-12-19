@@ -3,6 +3,7 @@ p {
     margin: 0;
 }
 
+
 .introduction{
     border: 5px dashed green;
     color: rgb(43, 16, 16);
@@ -10,15 +11,15 @@ p {
     font-size: 2rem;
 }
 
-.mainPart{
+.mainPart {
     font-size: 20px;
     font-weight: bold;
     color: grey;
     text-align: right;
 }
 
-.ending{
-    background-color: lightsalmon;
+.ending {
+    background-color: rgb(122, 255, 166);
     padding-top: 20px;
     text-align: right;
 }
@@ -26,3 +27,4 @@ p {
 .changes {
     background-color: blue;
 }
+
